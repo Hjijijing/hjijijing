@@ -1,114 +1,153 @@
-# Rasmus Hansen
+<h1 align="center">Hey, I'm Rasmus Hansen 👋</h1>
 
-## About me
-- I am 22 years old
-- On my final year of the bachelor programme in [Actuarial Mathematics](https://www.ku.dk/studier/bachelor/forsikringsmatematik) at University of Copenhagen
-- I have been programming since 2014
-- My other interests includes: Video Games, Board Games, Tech and Badminton
-
-## Tech Stack
-- Java
-- C#
-- JavaScript
-- Python
-- R
-- HTML
-- CSS
-- LaTeX
-- C++
-- php
-- Node.js
-- Express
-- Unity Game Engine
-- React
+<p align="center">
+🎓 Final-year Bachelor student in <a href="https://www.ku.dk/studier/bachelor/forsikringsmatematik">Actuarial Mathematics</a> at University of Copenhagen  
+💻 Programming since 2014  
+🎮 Into video games, board games, tech, and badminton  
+</p>
 
 
-## Projects
+<p align="center">
+I'm passionate about building tools that make abstract concepts visual and interactive — especially in education, math, and game dev.
+</p>
 
-Here is a selection of some of my projects that are publically available.
+---
 
+## 📍 Location & Education
 
-### Websites
+- 🏠 Based in Copenhagen, Denmark  
+- 🎓 University of Copenhagen ('25) – Actuarial Mathematics BSc
 
-#### Notrasmus.com - Personal Website
-A website to show off my portfolio. It is currently work in progress and very barebones.
+---
 
-Available here: https://notrasmus.com
+## 🛠️ Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
 
-#### Gauss Eliminator
+---
 
-Used by many students for the [Linear Algebra](https://kurser.ku.dk/course/nmab10006u) course at University of Copenhagen.
+## 📫 Contact
 
-The tool converts matrices to reduced row echelon form and gives you the output as LaTeX code.
+Feel free to reach out via email: [rashansen69@gmail.com](mailto:rashansen69@gmail.com)
 
-Available here: https://gauss.notrasmus.com
-
-Source code can be found at: https://github.com/Hjijijing/GaussEliminator
-
-
-#### Sorting Algorithm Visualizer
-
-A website that visualizes different sorting algorithms.
-
-I made this visualizer to complement my high school SOP project about mathematical proofs and algorithms.
-
-Available here: https://sorting.notrasmus.com
-
-Source code can be found at: https://github.com/Hjijijing/sortingalgovisualizer
-
-The SOP project can be found at: https://github.com/Hjijijing/SOPWorkspace
-
-
-#### Inventory System
-
-A system for logging where you keep your stuff. Can't remember where you put your keys? Enter it in the system and the next time you can't find them, you just need to look them up in the system!
-Made as my high school exam project in Programming. Unfortunately the demo us currently not fully functional as the service I was using for hosting the backend is no longer available. However the backend can still be run locally if you are interested in trying out the full functionality.
-
-Demo available here (missing basically all functionality): https://programmering.notrasmus.com
-
-Front-end source code can be found at: https://github.com/Hjijijing/eksamensprojekt-frontend
-
-Back-end source code can be found at: https://github.com/Hjijijing/eksamensprojekt-backend
+---
 
 
-### Games
+## 🚀 Featured Projects
 
-#### Learning Game about Structure of Atoms
+### 🌐 Websites
 
-A game I made for my high school exam in Digital Design and Development using the Unity Game Engine. The game uses real-life data to correctly display every single isotope currently known. The objective of the game is to reach a certain atom by collecting electrons, protons and neutrons while trying to remain stable. You learn about neutrons, protons and electrons and how the correct balance between these is necessary to keep the atom stable. You also learn about orbitals and the different elements of the periodic table.
+#### 🔗 [Notrasmus.com](https://notrasmus.com)
+Personal portfolio website – still a work in progress.
 
-Source code and a build of the game can be found at: https://github.com/Hjijijing/DDU-Eksamensprojekt
+---
+
+#### 🔢 [Gauss Eliminator - gauss.notrasmus.com](https://gauss.notrasmus.com)  
+➡️ A tool to convert matrices to RREF and output LaTeX code.  
+Used by students in [Linear Algebra @ UCPH](https://kurser.ku.dk/course/nmab10006u)  
+🔗 [Source Code](https://github.com/Hjijijing/GaussEliminator)
+
+---
+
+#### 🔄 [Sorting Algorithm Visualizer - sorting.notrasmus.com](https://sorting.notrasmus.com)  
+Visualization of various sorting algorithms.  
+Created to complement my high school SOP project.  
+🔗 [Visualizer Code](https://github.com/Hjijijing/sortingalgovisualizer)  
+📄 [SOP Project](https://github.com/Hjijijing/SOPWorkspace)
+
+---
+
+#### 📦 [Inventory System](https://programmering.notrasmus.com)  
+Log where you put your stuff!  
+My high school exam project in programming. Demo is currently limited due to backend hosting issues.  
+🔗 [Frontend](https://github.com/Hjijijing/eksamensprojekt-frontend) | [Backend](https://github.com/Hjijijing/eksamensprojekt-backend)
+
+---
+
+### 🎮 Games
+
+#### ⚛️ [Atomic Learning Game](https://github.com/Hjijijing/DDU-Eksamensprojekt)  
+An educational game about the structure of atoms.  
+Made for a high school exam using Unity.  
+Learn about isotopes, stability, orbitals and the periodic table.
+
+---
+
+### 🛠️ Tools
+
+#### 🌀 [Tweening Library for Unity](https://github.com/Hjijijing/hjijijingtweening)  
+A lightweight tweening engine to simplify animations in Unity projects.
+
+---
+
+#### 🔗 [URL Shortener](https://github.com/Hjijijing/urlshortener)  
+A custom domain-compatible backend tool for shortening URLs.
+
+---
+
+## 🔭 Currently Working On
+
+- Expanding my portfolio site  
+- Bachelor Project in Actuarial Mathematics  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced statistical modeling in R
+- PHP
+- 3D Modelling
+  
+
+---
+
+## 🧩 Fun Facts
+
+- I’ve built a game that teaches atomic structure using real isotopes  
+- I once made an inventory tracker because I kept misplacing my keys  
+- My favorite board game is Family Business — nothing like a good ol' mob hit 🕴️🔫💵
+
+---
 
 
-### Tools
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hjijijing&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjijijing&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+### ⏳ GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hjijijing&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
+
+---
 
 
-#### Tweening Library for the Unity Game Engine
-
-A tweening library for the Unity Game Engine, that makes programmatic animations significantly easier to make. I have used this tool in every game I have made after making this library.
-
-Source code can be found at: https://github.com/Hjijijing/hjijijingtweening
-
-#### URL Shortener
-
-A small backend tool for implementing a URL shortener on your own custom domain name.
-
-Source code can be found here: https://github.com/Hjijijing/urlshortener
-
-
-
-<!--
-**Hjijijing/hjijijing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
