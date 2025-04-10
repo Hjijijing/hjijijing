@@ -142,12 +142,4 @@ A custom domain-compatible backend tool for shortening URLs.
 
 ---
 
-### ⏳ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hjijijing&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 
