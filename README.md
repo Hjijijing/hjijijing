@@ -37,6 +37,7 @@ I'm passionate about building tools that make abstract concepts visual and inter
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/p5.js-0062E0?style=for-the-badge&logo=p5.js&logoColor=white"/>
 </p>
 
 ---
@@ -58,7 +59,7 @@ Personal portfolio website – still a work in progress.
 ---
 
 #### 🔢 [Gauss Eliminator - gauss.notrasmus.com](https://gauss.notrasmus.com)  
-➡️ A tool to convert matrices to RREF and output LaTeX code.  
+A tool to convert matrices to RREF and output LaTeX code.  
 Used by students in [Linear Algebra @ UCPH](https://kurser.ku.dk/course/nmab10006u)  
 🔗 [Source Code](https://github.com/Hjijijing/GaussEliminator)
 
@@ -85,6 +86,14 @@ My high school exam project in programming. Demo is currently limited due to bac
 An educational game about the structure of atoms.  
 Made for a high school exam using Unity.  
 Learn about isotopes, stability, orbitals and the periodic table.
+
+---
+
+#### 🔘 [Cirkel Pong](https://hjijijing.itch.io/cirkelpong)
+
+A twist on the classic Pong — but played in a circle!  
+Developed for the **KMG Game Jam 2021**, where it won **1st place** in the *"True to the Theme"* category.  
+Built using p5.js.
 
 ---
 
